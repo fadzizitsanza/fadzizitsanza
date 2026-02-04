@@ -141,9 +141,9 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@ucalgary.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadzai-zitsanza-807b51296/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zitsanzaf#gmail.com)
+
 
 **Open to internship opportunities and collaborative projects!**
 
