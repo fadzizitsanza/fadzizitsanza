@@ -1,15 +1,10 @@
-<rsenal
-
 <div align="center">
-
-### Languages & Core Technologies
-![Java](https://imdiv align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Fadzi%20Zitsanza&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20@%20University%20of%20Calgary&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=200&section=header&text=Fadzi%20Zitsanza&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20@%20University%20of%20Calgary&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+in+the+Making;Problem+Solver+%7C+Creative+Thinker;Building+Solutions+That+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+in+the+Making;Problem+Solver+%7C+Creative+Thinker;Building+Solutions+That+Matter)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,17 +14,25 @@
 
 ```javascript
 const fadzi = {
-    location: "Calgary, AB",
-    education: "University of Calgary - Year 2",
-    interests: ["Full-Stack Development", "UI/UX Design", "Problem Solving"],
-    currentFocus: "Building impactful applications with clean, scalable code",
-    funFact: "I turn coffee into code and ideas into reality ☕→💻"
+    location: "Calgary, AB 🇨🇦",
+    education: "University of Calgary - Computer Science Year 2",
+    codingStyle: "Clean, creative, and user-focused",
+    interests: ["Full-Stack Development", "UI/UX Design", "Problem Solving", "Building Cool Stuff"],
+    currentMission: "Turning complex problems into elegant solutions",
+    lifePhilosophy: "Code with purpose, design with empathy, build with passion",
+    funFact: "I debug code faster than I can decide what to have for dinner 🍕💻",
+    favoritePart: "That moment when everything just clicks and works perfectly ✨"
 };
 ```
 
 ---
 
-## 🛠️ Technical Ag.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Languages & Core Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -65,7 +68,7 @@ A comprehensive library management system that brings organization and insights 
 - 📈 Track reading patterns and set reading goals
 - 🏆 Discover your most-loved books with automatic top-rated rankings
 
-**Tech Stack:** [Java/Python] • [React/Tkinter] • [SQL Database] • Spring Boot
+**Tech Stack:** Java • JavaFX • SceneBuilder • SQL Database
 
 **Impact:** Helps users maintain consistent reading habits through gamification and progress tracking
 
@@ -89,7 +92,7 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 - 🔒 Secure link generation with collision prevention
 - 🎨 Clean, intuitive user interface
 
-**Tech Stack:** [Your backend language] • [Your database] • RESTful API Design
+**Tech Stack:** Python • Tkinter • Custom URL Generation Algorithm
 
 **Impact:** Demonstrates proficiency in backend development, database design, and API creation
 
@@ -98,12 +101,12 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadzizitsanza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadzizitsanza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=9745f5&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadzizitsanza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadzizitsanza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadzizitsanza&theme=radical&hide_border=true&background=0d1117&ring=9745f5&fire=9745f5&currStreakLabel=9745f5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadzizitsanza&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak" />
 </div>
 
 ---
@@ -142,8 +145,7 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadzai-zitsanza-807b51296/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zitsanzaf#gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zitsanzaf@gmail.com)
 
 **Open to internship opportunities and collaborative projects!**
 
@@ -152,9 +154,9 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=100&section=footer" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=fadzizitsanza&color=9745f5&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=fadzizitsanza&color=ff69b4&style=for-the-badge)
   
   ⭐ **Star my repos if you find them interesting!** ⭐
 </div>
