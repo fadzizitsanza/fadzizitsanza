@@ -155,6 +155,5 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
   
   ![Profile Views](https://komarev.com/ghpvc/?username=fadzizitsanza&color=ff69b4&style=for-the-badge)
   
-  ⭐ **Star my repos if you find them interesting!** ⭐
 </div>
 
