@@ -18,11 +18,6 @@ const fadzi = {
     education: "University of Calgary - Computer Science Year 2",
     codingStyle: "Clean, creative, and user-focused",
     interests: ["Full-Stack Development", "UI/UX Design", "Problem Solving", "Building Cool Stuff"],
-    currentMission: "Turning complex problems into elegant solutions",
-    currentlyBuilding: "Assignment Tracker with Spring Boot 🚀",
-    lifePhilosophy: "Code with purpose, design with empathy, build with passion",
-    funFact: "I debug code faster than I can decide what to have for dinner 🍕💻",
-    favoritePart: "That moment when everything just clicks and works perfectly ✨"
 };
 ```
 
