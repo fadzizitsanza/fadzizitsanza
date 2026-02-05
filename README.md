@@ -19,6 +19,10 @@ const fadzi = {
     codingStyle: "Clean, creative, and user-focused",
     interests: ["Full-Stack Development", "UI/UX Design", "Problem Solving", "Building Cool Stuff"],
     currentMission: "Turning complex problems into elegant solutions",
+    currentlyBuilding: "Assignment Tracker with Spring Boot 🚀",
+    lifePhilosophy: "Code with purpose, design with empathy, build with passion",
+    funFact: "I debug code faster than I can decide what to have for dinner 🍕💻",
+    favoritePart: "That moment when everything just clicks and works perfectly ✨"
 };
 ```
 
@@ -34,17 +38,52 @@ const fadzi = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2-0000BB?style=for-the-badge&logo=database&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### 📝 Assignment Tracker & Grade Management System
+*Smart academic progress tracking with intelligent grade calculations*
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=for-the-badge" />
+
+</div>
+
+**What it does:**  
+A comprehensive Spring Boot application that enables students to track assignments, monitor academic progress, and manage course information through an integrated calendar system with automated reminders.
+
+**💡 Key Features:**
+- 📊 Dynamic grade calculation engine with real-time performance analytics
+- 📅 Calendar integration with customizable deadline reminders
+- ✅ Assignment workflow management (not started, in progress, cancelled, completed)
+- 🎯 Goal-setting system that tracks progress toward target grades
+- 👨‍🏫 Course management with instructor contact information and schedules
+- 🔔 Automated notification system for upcoming deadlines
+
+**Tech Stack:** Java • Spring Boot • Spring Data JPA • RESTful APIs • H2 Database • Maven
+
+**Current Progress:** Building core CRUD operations and grade calculation logic
+
+---
 
 <div align="center">
 
@@ -141,8 +180,9 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadzai-zitsanza-807b51296/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadzi-zitsanza-807b51296/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zitsanzaf@gmail.com)
+
 
 **Open to internship opportunities and collaborative projects!**
 
@@ -156,4 +196,3 @@ A sleek, efficient URL shortening service that converts lengthy URLs into clean,
   ![Profile Views](https://komarev.com/ghpvc/?username=fadzizitsanza&color=ff69b4&style=for-the-badge)
   
 </div>
-
